@@ -4,9 +4,8 @@ import java.util.List;
 
 import javax.inject.Inject;
 
-import ac.cleanmvp.dagger.modules.Api;
 import ac.cleanmvp.dagger.modules.AppModule;
-import ac.cleanmvp.dagger.modules.pojo.CertainCar;
+import ac.cleanmvp.model.pojo.CertainCar;
 import ac.cleanmvp.events.CarEvent;
 import ac.cleanmvp.events.ErrorEvent;
 import de.greenrobot.event.EventBus;

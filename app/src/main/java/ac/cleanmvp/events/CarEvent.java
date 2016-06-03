@@ -2,7 +2,7 @@ package ac.cleanmvp.events;
 
 import java.util.List;
 
-import ac.cleanmvp.dagger.modules.pojo.CertainCar;
+import ac.cleanmvp.model.pojo.CertainCar;
 
 /**
  * Created by Alexy on 24.04.2016.

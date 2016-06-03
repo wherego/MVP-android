@@ -1,18 +1,14 @@
 package ac.cleanmvp.dagger.modules;
 
-import java.util.List;
-
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
-import ac.cleanmvp.dagger.modules.pojo.CertainCar;
-import ac.cleanmvp.dagger.modules.pojo.Links;
+import ac.cleanmvp.model.Api;
+import ac.cleanmvp.model.pojo.Links;
 import dagger.Module;
-import dagger.Provides;
 import retrofit.GsonConverterFactory;
 import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
-import rx.Observable;
 
 
 @Module

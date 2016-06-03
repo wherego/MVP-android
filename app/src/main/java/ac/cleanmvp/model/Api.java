@@ -1,9 +1,9 @@
-package ac.cleanmvp.dagger.modules;
+package ac.cleanmvp.model;
 
 import java.util.List;
 
-import ac.cleanmvp.dagger.modules.pojo.CertainCar;
-import ac.cleanmvp.dagger.modules.pojo.Links;
+import ac.cleanmvp.model.pojo.CertainCar;
+import ac.cleanmvp.model.pojo.Links;
 import retrofit.http.GET;
 import rx.Observable;
 

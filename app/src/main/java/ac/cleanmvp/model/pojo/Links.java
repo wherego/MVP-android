@@ -1,4 +1,4 @@
-package ac.cleanmvp.dagger.modules.pojo;
+package ac.cleanmvp.model.pojo;
 
 
 public class Links {

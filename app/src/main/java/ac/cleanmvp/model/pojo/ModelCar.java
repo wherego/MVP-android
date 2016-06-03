@@ -1,4 +1,4 @@
-package ac.cleanmvp.dagger.modules.pojo;
+package ac.cleanmvp.model.pojo;
 
 /**
  * Created by Alexy on 12.04.2016.
